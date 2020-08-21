@@ -1,47 +1,33 @@
-import '../styles/navbar.scss';
 import React, { useEffect } from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 export default function NavBar() {
-  useEffect(() => {
-    document.querySelector('.js-fullheight').style.height = `${window.innerHeight}px`;
-
-    window.addEventListener('resize', () => {
-      document.querySelector('.js-fullheight').style.height = `${window.innerHeight}px`;
-    });
-  });
-
-  function handleClick() {
-    document.querySelector('#sidebar').classList.toggle('active');
-  }
-
   return (
-    <nav id="sidebar" className="js-fullheight">
-      <div className="custom-menu">
-        <button type="button" id="sidebarCollapse" className="btn btn-primary" onClick={handleClick}>
-          <FontAwesomeIcon icon={faBars} />
-          <span className="sr-only">Toggle Menu</span>
-        </button>
-      </div>
-      <div className="p-4 pt-5">
-        <h1><a href="/" className="logo">Andrew</a></h1>
-        <ul className="list-unstyled components mb-5">
-          <li>
-            <a href="/">Home</a>
-          </li>
-          <li>
-            <a href="/about">About</a>
-          </li>
-          <li>
-            <a href="/portfolio">Portfolio</a>
-          </li>
-          <li>
-            <a href="/contact">Contact</a>
-          </li>
-        </ul>
+    <>
+      <nav className="navbar navbar-expand-md navbar-dark bg-dark h-100">
+        <div className="container-fluid">
+          <a className="navbar-brand" href="/">Andrew Crotwell</a>
+          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+            <span className="navbar-toggler-icon" />
+          </button>
 
-      </div>
-    </nav>
+          <div className="collapse navbar-collapse" id="navbarsExample04">
+            <ul className="navbar-nav mr-auto mb-2 mb-md-0">
+              <li className="nav-item active">
+                <a className="nav-link" aria-current="page" href="/">Home</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/about">About</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/portfolio">Portfolio</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/contact">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </>
   );
 }

@@ -1,28 +1,18 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 export default function Home() {
+  useEffect(() => {
+    document.querySelector('#home').style.height = `${window.innerHeight}px`;
+  });
   return (
-    <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-      <div className="mb-auto">
-        <div>
-          <h3 className="float-md-left mb-0">Cover</h3>
-        </div>
+    <div id="home" className="position-relative overflow-y-hidden p-3 p-md-5 text-center bg-light">
+      <div className="col-md-5 p-lg-5 mx-auto my-5">
+        <h1 className="display-4 font-weight-normal">Hi, I'm Andrew</h1>
+        <p className="lead font-weight-normal">I am software developer. I like Ruby, Javascript and Crystal</p>
+        <a className="btn btn-outline-secondary" href="/contact">Contact Me</a>
       </div>
-
-      <div className="px-3">
-        <h1>Hi, I'm Andrew</h1>
-        <p className="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-        <p className="lead">
-          <a
-            href="/contact"
-            className="btn btn-lg btn-primary font-weight-bol"
-          >
-            Contact Me
-          </a>
-        </p>
-      </div>
-
-      <div className="mt-auto text-white-50" />
+      <div className="product-device shadow-sm d-none d-md-block" />
+      <div className="product-device product-device-2 shadow-sm d-none d-md-block" />
     </div>
   );
 }

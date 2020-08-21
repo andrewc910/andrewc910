@@ -8,13 +8,8 @@ export default function SiteLayout({ children }) {
   return (
     <div>
       <Head />
-      <div className="wrapper d-flex align-items-stretch">
-        <NavBar />
-        <main className="container">
-          {children}
-        </main>
-      </div>
-
+      <NavBar />
+      {children}
       <Footer />
     </div>
   );
