@@ -17,7 +17,7 @@
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "bootstrap": "^5.0.0-alpha1",
-    "next": "9.5.1",
+    "next": "9.5.4",
     "node-sass": "^4.14.1",
     "popper.js": "^1.16.1",
     "react": "16.13.1",
