@@ -126,6 +126,8 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
     src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crystal%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" />
+
   <h5>Technologies</h5>
   <img alt="Rails"
     src="https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
