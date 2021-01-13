@@ -59,7 +59,7 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/andrewc910/motion.cr"><b>🚀 Motion.cr</b></a></td>
+	<td><a href="https://github.com/andrewc910/motion.cr"><b>🚀 Motion.cr</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/andrewc910/motion.cr?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/andrewc910/motion.cr?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/andrewc910/motion.cr?style=flat-square"/></td>
@@ -67,7 +67,15 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/andrewc910/motion.cr?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/bridgeapi-dev/bridgeapi.rb"><b>🍡 Mochi</b></a></td>
+	<td><a href="https://github.com/andrewc910/mochi"><b>🍡 Mochi</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/andrewc910/mochi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/andrewc910/mochi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/andrewc910/mochi?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/andrewc910/mochi?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/andrewc910/mochi?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/bridgeapi-dev/bridgeapi.rb"><b>BridgeAPI.rb</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/bridgeapi-dev/bridgeapi.rb?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/bridgeapi-dev/bridgeapi.rb?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/bridgeapi-dev/bridgeapi.rb?style=flat-square"/></td>
@@ -75,7 +83,7 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/bridgeapi-dev/bridgeapi.rb?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/bridgeapi-dev/bridgeapi.js"><b>🍡 Mochi</b></a></td>
+	<td><a href="https://github.com/bridgeapi-dev/bridgeapi.js"><b>BridgeAPI.js</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/bridgeapi-dev/bridgeapi.js?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/bridgeapi-dev/bridgeapi.js?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/bridgeapi-dev/bridgeapi.js?style=flat-square"/></td>
