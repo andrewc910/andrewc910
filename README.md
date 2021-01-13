@@ -80,15 +80,15 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
 <details>	
   <summary><b>🖥️ Languages & Technologies</b></summary>
   <h5>Languages</h5>
-	<img src="https://img.shields.io/badge/Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-	<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />
-	<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+	<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=for-the-badge&logo=ruby&logoColor=white" />
+	<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
   <h5>Technologies</h5>
-	<img alt="Rails" src="https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/>
+	<img alt="Rails" src="https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/NextJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
-	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 	<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
