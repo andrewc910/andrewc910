@@ -2,15 +2,7 @@
 
 I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Asheville, NC.
 
-### About Me:
-
-- 🌱 I’m currently learning Go, micro-frontends & serverless deployments
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awcrotwell/) or [Email](mailto:awcrotwell@gmail.com)
-- 💬 Ask me about Typescript, Ruby on Rails, NodeJS, React or AWS
-- 👯 I’m looking to collaborate on a Typescript micro-framework
-
-### Connect With Me:
-
+<!-- Connect Badges -->
 <p>
   <a href="https://www.twitter.com/awcrotwell">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -22,6 +14,13 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
 </p>
+
+### About Me:
+
+- 🌱 I’m currently learning Go, micro-frontends & serverless deployments
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awcrotwell/) or [Email](mailto:awcrotwell@gmail.com)
+- 💬 Ask me about Typescript, Ruby on Rails, NodeJS, React or AWS
+- 👯 I’m looking to collaborate on a Typescript micro-framework
 
 ### Projects and Dev Stuffs:
 
