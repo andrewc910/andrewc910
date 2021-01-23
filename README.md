@@ -19,7 +19,7 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
 
 - 🌱 I’m currently learning Go, micro-frontends & serverless deployments
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awcrotwell/) or [Email](mailto:awcrotwell@gmail.com)
-- 💬 Ask me about Typescript, Ruby on Rails, NodeJS, React or AWS
+- 💬 Ask me about Typescript, Ruby on Rails, NodeJS, React, Crystal or AWS
 - 👯 I’m looking to collaborate on a Typescript micro-framework
 
 ### Projects and Dev Stuffs:
