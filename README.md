@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Asheville, NC.
+I'm Andi, software engineer from Los Angeles, CA, currently living in Asheville, NC.
 
 <!-- Connect Badges -->
 <p>
@@ -17,9 +17,9 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
 
 ### About Me:
 
-- 🌱 I’m currently learning Go & Time series data
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awcrotwell/) or [Email](mailto:awcrotwell@gmail.com)
-- 💬 Ask me about Typescript, Ruby on Rails, NodeJS, React, Crystal or AWS
+- 💬 Ask me about Typescript, Ruby on Rails, Go, React, Crystal or AWS
 <!-- - 👯 I’m looking to collaborate on a Typescript micro-framework -->
 
 ### Projects and Dev Stuffs:
@@ -159,27 +159,6 @@ I'm Andrew, Fullstack developer from Los Angeles, CA, currently living in Ashevi
 
 ##### Yes, I have actually used each technology listed.
 
-  </div>
-</details>
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <div align="center">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=andrewc910&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewc910&hide=html&show_icons=true&hide_border=true&layout=compact&langs_count=8"
-    />
-  </div>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewc910&hide_border=true" />
   </div>
 </details>
 
