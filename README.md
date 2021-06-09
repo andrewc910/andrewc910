@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andi, software engineer from Los Angeles, CA, currently living in Asheville, NC.
+I'm Andi, software engineer from Los Angeles, CA.
 
 <!-- Connect Badges -->
 <p>
