@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andi, software engineer from Los Angeles, CA.
+I'm Andi, a software engineer from Los Angeles, CA.
 
 <!-- Connect Badges -->
 <p>
@@ -13,7 +13,7 @@ I'm Andi, software engineer from Los Angeles, CA.
 
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awcrotwell/) or [Email](mailto:awcrotwell@gmail.com)
-- 💬 Ask me about Typescript, Ruby on Rails, Go, React, Crystal or AWS
+- 💬 Ask me about Typescript, Ruby on Rails, Go, React or AWS
 <!-- - 👯 I’m looking to collaborate on a Typescript micro-framework -->
 
 ### Projects and Dev Stuffs:
